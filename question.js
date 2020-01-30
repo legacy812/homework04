@@ -81,7 +81,7 @@ var questions = [
   new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
   new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery", "Django", "NodeJS"], "Django"),
   new Question("What is does an array mean?", ["Images", "Pieces of Data", "Element", "All"], "Pieces of Data"),
-  new Question("What does # stand for in JS?", ["Web Design", "ID tag", "Class", "Twitter"], "ID Tag")
+  new Question("What does # stand for in JS?", ["Web Design", "ID tag", "Class", "Twitter"], "ID tag")
 ];
 
 // create quiz
